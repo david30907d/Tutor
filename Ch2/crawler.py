@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import requests, json, pyprind, sys, shutil
 from bs4 import BeautifulSoup
 json_arr = []
