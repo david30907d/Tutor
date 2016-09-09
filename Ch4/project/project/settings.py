@@ -37,7 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'time2eat',
+    'kidvietnamese',
 )
 
 MIDDLEWARE_CLASSES = (
